@@ -1,0 +1,48 @@
+/* 共通要素 -----------------*/
+
+/* フォント指定 */
+body{
+font-family: 'Mountains of Christmas', cursive;
+font-family: 'Unlock', cursive;
+font-family: 'Bungee', cursive;
+font-family: 'Unlock', cursive;
+    
+    background-color: black;
+}
+
+h1{
+    color: #FFF;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 24px;
+    margin-bottom: 10px;
+    font-family: 'Bungee', cursive;
+font-family: 'Unlock', cursive;
+}
+
+#itigo
+{text-align: center;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-family: 'Bungee', cursive;
+font-family: 'Unlock', cursive;
+
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+
+}
+a:hover{
+    color: deeppink;
+    text-decoration: none;
+
+}
